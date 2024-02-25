@@ -1,0 +1,27 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "8.215.32.6",
+      "port": 3306,
+      "driver": "MariaDB",
+      "name": "yuma_Db_Test",
+      "database": "yuma_Db_Test",
+      "username": "yuma_na",
+      "askForPassword": true
+    },
+    {
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "name": "db_yuma",
+      "database": "db_Homework",
+      "username": "yumana"
+    }
+  ]
+}
