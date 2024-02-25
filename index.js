@@ -5,8 +5,8 @@ const port = 2070;
 const app = express();
 
 pool.connect((err, result) => {
-  console.log(err);
-  // console.log(result);
+  if (err) return console.log(err);
+  console.log("Database connected");
 });
 
 app.listen(port, () => {
