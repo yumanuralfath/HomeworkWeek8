@@ -15,12 +15,13 @@
       "askForPassword": true
     },
     {
+      "previewLimit": 50,
       "server": "localhost",
       "port": 5432,
       "askForPassword": true,
       "driver": "PostgreSQL",
       "name": "db_yuma",
-      "database": "db_Homework",
+      "database": "homework8dvd",
       "username": "yumana"
     }
   ]
