@@ -4,7 +4,7 @@ Database integration postgresql with Express.js
 
 ## Installation
 
-Use the package manager [NPM](https://pip.pypa.io/en/stable/) to install in Directory.
+Use the package manager [NPM](https://www.npmjs.com/) to install in Directory.
 
 ```bash
 NPM install
