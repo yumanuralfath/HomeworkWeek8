@@ -1,8 +1,12 @@
 import express from "express";
 import pool from "./config/database.js";
+import router from "./router/route.js";
+import "dotenv";
 
-const port = 2070;
+const port = process.env.port || 2070;
 const app = express();
+
+app.use(router);
 
 pool.connect((err, result) => {
   if (err) return console.log(err);

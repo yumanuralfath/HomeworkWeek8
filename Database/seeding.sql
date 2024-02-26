@@ -1,0 +1,10 @@
+insert into actor (first_name, last_name, last_update) values ('Arin', 'O''Suaird', '2023-10-11 19:35:58');
+insert into actor (first_name, last_name, last_update) values ('Terry', 'Stansbury', '2019-03-03 20:59:24');
+insert into actor (first_name, last_name, last_update) values ('Dorelle', 'Isacke', '2017-02-05 13:24:14');
+insert into actor (first_name, last_name, last_update) values ('Anastasie', 'Yashanov', '2022-06-30 19:48:11');
+insert into actor (first_name, last_name, last_update) values ('Beckie', 'Szymanowicz', '2019-10-12 20:35:48');
+insert into actor (first_name, last_name, last_update) values ('Giffard', 'Urlich', '2019-11-07 23:26:49');
+insert into actor (first_name, last_name, last_update) values ('Tobin', 'Jancy', '2018-06-14 12:04:45');
+insert into actor (first_name, last_name, last_update) values ('Shannon', 'Dryden', '2017-01-01 21:44:20');
+insert into actor (first_name, last_name, last_update) values ('Alene', 'Tomczak', '2017-02-18 09:49:01');
+insert into actor (first_name, last_name, last_update) values ('Rick', 'Plaunch', '2023-01-06 03:35:33');
